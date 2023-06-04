@@ -1,3 +1,5 @@
+// ignore_for_file: unnecessary_null_comparison
+
 import 'package:arcore_flutter_plugin/src/arcore_material.dart';
 import 'package:flutter/widgets.dart';
 
